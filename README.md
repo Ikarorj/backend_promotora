@@ -59,10 +59,7 @@ npm install
 3. **Configurar variáveis de ambiente**
 Crie um arquivo `.env` na raiz do projeto com as variáveis necessárias:
 ```env
-SUPABASE_URL=sua_url_supabase
-SUPABASE_KEY=sua_chave_supabase
-JWT_SECRET=sua_chave_jwt_secreta
-PORT=3000
+NÃO-PRECISA-SABER-KEY: *****************************************
 ```
 
 4. **Executar em desenvolvimento**
